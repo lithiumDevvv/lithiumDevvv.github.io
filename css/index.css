@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+#typewriter {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    white-space: pre;
+    overflow: hidden;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-top: -200px;
+  }
+
+  .nav-tabs {
+    text-align: center;
+  }
